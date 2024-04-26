@@ -1,0 +1,4 @@
+[[redirects]]
+from="/x"
+to="/index.html"
+status = 200
